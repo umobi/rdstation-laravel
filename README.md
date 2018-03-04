@@ -75,7 +75,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Credits
 
-- [Sid K](https://github.com/koomai)
+- [Umobi](https://github.com/umobi)
 - [All Contributors](../../contributors)
 
 ## License
