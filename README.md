@@ -36,3 +36,14 @@ Add your RDStation Tokens to ``.env`` file:
 RDSTATION_TOKEN=f1c940384a971f2982c61a5e5f11e6b9
 RDSTATION_PRIVATE_TOKEN=82ue82918du234j3j43ld9j2jpao91282
 ```
+
+### Usage
+
+```php
+ app('rdstation')->register($source, [
+    'name' => $name,
+    'email' => $email,
+    'mobile_phone' => $lead->phone_number,
+    ... // RDStation Lead fields
+]);
+```
