@@ -47,3 +47,37 @@ RDSTATION_PRIVATE_TOKEN=82ue82918du234j3j43ld9j2jpao91282
     ... // RDStation Lead fields
 ]);
 ```
+Show additional info on [Integrar sistema próprio para Criação de Leads e registrar conversão](https://ajuda.rdstation.com.br/hc/pt-br/articles/200310589)
+
+
+## Contributing
+
+Dependencies are managed through composer:
+
+```
+$ composer install
+```
+
+Tests can then be run via phpunit:
+
+```
+$ vendor/bin/phpunit
+```
+
+
+## Security
+
+If you discover any security related issues, please email ramon@umobi.com.br instead of using the issue tracker.
+
+## Contributing
+
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+
+## Credits
+
+- [Sid K](https://github.com/koomai)
+- [All Contributors](../../contributors)
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
